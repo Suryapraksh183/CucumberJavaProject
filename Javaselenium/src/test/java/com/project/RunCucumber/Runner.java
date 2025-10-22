@@ -2,7 +2,6 @@ package com.project.RunCucumber;
 
 import org.junit.AfterClass;
 import org.junit.runner.RunWith;
-
 import com.project.StepDefn.Base_class;
 
 import io.cucumber.junit.Cucumber;
